@@ -1,2 +1,2 @@
 # JavascriptWebistes
- Projects to build in vanilla javascript
+ This repo will contain 20 projects with html, css and javascript.
